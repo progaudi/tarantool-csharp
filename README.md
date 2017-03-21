@@ -1,2 +1,5 @@
 # tarantool-csharp
-Deprecated. Use https://github.com/progaudi/progaudi.tarantool instead.
+
+Project was renamed and moved to https://github.com/progaudi/progaudi.tarantool
+
+Nuget package was renamed to https://www.nuget.org/packages/progaudi.tarantool/
